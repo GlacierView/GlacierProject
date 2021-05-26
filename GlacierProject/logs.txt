@@ -1,0 +1,30 @@
+Drive service started
+Beginning glacier G072745E39191N
+The Earth Engine package initialized successfully!
+Getting Landsat 8 collection
+Getting Landsat 7 collection
+Getting landsat 5 collection
+starting date collection
+L8 date collection complete
+L7 date collection complete
+l5 date collection complete
+Making google drive glacier object
+Folder ID: 1Cq1tgQHpm0wAbnAQw8Vs46BvVSSazO_t
+Creating CSV
+glacier object uploaded to google drive
+dem sent to drive
+gmted sent to drive
+52
+L8 images sent to drive
+100
+L7 images sent to drive
+34
+L5 images sent to drive
+Beginning glacier G079956E42288N
+The Earth Engine package initialized successfully!
+Getting Landsat 8 collection
+Getting Landsat 7 collection
+Getting landsat 5 collection
+starting date collection
+L8 date collection complete
+L7 date collection complete
